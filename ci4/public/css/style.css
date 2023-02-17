@@ -1,0 +1,104 @@
+
+  body, html  {
+  height: 100%;
+  margin: 0;
+  background-image: url("https://media.istockphoto.com/id/1194214127/vector/sakura-cherry-blossom-pattern-seamless-japanese-background.jpg?s=612x612&w=0&k=20&c=gqVvuXAvWbfP9DXGCbXsBrBO3M1-hwVAv5YfHtAy8YA=");
+  background-position: center;
+}
+
+
+h1{
+  font-family: "Sofia", sans-serif;
+  font-size: 50px;
+}
+h2,h3, h4, h5{
+  margin-top: 40px;
+  font-size: 20px;
+  font-family: Verdana, sans-serif;
+}
+
+p {
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
+p.linethrough{
+  text-decoration: line-through;
+}
+
+p.wavyunderline {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+
+p.textshadow{
+  text-shadow: 2px 2px 5px rgb(188, 53, 206);
+}
+
+section {
+  border-style: solid;
+  border-color: rgb(224, 26, 214);
+  outline-color:rgb(214, 42, 185);
+  outline-style: outset;
+  margin: auto;
+  width: 80%;
+  padding: 11px;
+  padding-bottom: 50px;
+}
+
+a.one:link {color:#88387b;;}
+a.one:visited {color:#20041f;}
+a.one:hover {color:rgb(188, 53, 206)}
+
+ol {
+  background: #ff9999;
+  padding: 20px;
+}
+
+ol li {
+  background: #ffe5e5;
+  color: darkred;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 1px;
+  background-color:  #f8c8dcd5;
+  border: 2px solid #ffffff;
+}
+
+img {
+  float: right;
+}
+
+a.highlight:hover {
+  color: #9c03e4;
+  font-size: 22px;
+} 
