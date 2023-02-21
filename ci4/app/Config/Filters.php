@@ -53,6 +53,9 @@ class Filters extends BaseConfig
      */
     public array $methods = [];
 
+	public $methods = [
+        'post' => ['csrf'],
+    ];
     /**
      * List of filter aliases that should run on any
      * before or after URI patterns.
