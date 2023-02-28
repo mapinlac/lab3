@@ -6,7 +6,7 @@ use CodeIgniter\Model;
 
 class NewsModel extends Model
 {
-    protected $table = 'mapinlac_myguests';
+    protected $table = 'mapinlac_mynews';
 	
 	protected $allowedFields = ['title', 'slug', 'body'];
 
