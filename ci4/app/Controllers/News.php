@@ -54,7 +54,7 @@ class News extends BaseController
         // Checks whether the submitted data passed the validation rules.
         if (! $this->validateData($post, [
             'title' => 'required|max_length[255]|min_length[3]',
-            'body'  => 'required|max_length[5000]|min_length[10]',
+            'body'  => 'required|max_length[5000]|min_length[5]',
         ])) {
             // The validation fails, so returns the form.
             return view('templates/header', ['title' => 'Create a news item'])
