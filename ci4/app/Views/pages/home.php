@@ -68,5 +68,6 @@
 <p>Forms Link</p>
 <p><b><a class="one" href="form_validation">Forms Validation</a></b></p>
 <a href="guests.php"><p>Guests</p></a>
+<a href="news"><p>News</p></a>
 </center>
 </section>
