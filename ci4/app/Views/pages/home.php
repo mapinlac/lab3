@@ -15,7 +15,7 @@
               </a>
             </li>
             <li>
-              <a href="http://localhost/lab3/ci4/public/about" class="nav-link text-white">
+              <a href="/public/about" class="nav-link text-white">
               <img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2022/09/meme_doge_dog.png" width="24" height="24"><use xlink:href=""></use></svg>
                 About ME?
               </a>
