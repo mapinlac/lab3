@@ -2,9 +2,9 @@
     <div class="px-3 py-2 text-bg-dark">
       <div class="container">
         <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-          <a href="http://localhost/lab3/ci4/public/home#" class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-white text-decoration-none">
+          <a href="home" class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-white text-decoration-none">
             <img src="https://cdn.7tv.app/emote/613937fcf7977b64f644c0d2/4x.png" width="350" height="50" role="img">
-            <use xlink:href="http://localhost/lab3/ci4/public/home"></use></svg>
+            <use xlink:href=""></use></svg>
           </a>
 
           <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
