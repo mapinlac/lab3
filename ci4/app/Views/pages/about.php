@@ -9,33 +9,34 @@
 
           <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
             <li>
-              <a href="http://localhost/lab3/ci4/public/home" class="nav-link text-white" >
+              <a href="home" class="nav-link text-white" >
                 <img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2022/09/meme_sad_frog.png" width="24" height="24"><use xlink:href="#home"></use></svg>
                 Home
               </a>
             </li>
             <li>
-              <a href="#" class="nav-link text-secondary">
+              <a href="about" class="nav-link text-secondary">
               <img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2022/09/meme_doge_dog.png" width="24" height="24"><use xlink:href="http://localhost/lab3/ci4/public/about"></use></svg>
                 About ME?
               </a>
             </li>
             <li>
-              <a href="#" class="nav-link text-white">
-              <img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2022/09/meme_this_is_fine_dog.png" width="24" height="24"><use xlink:href="#table"></use></svg>
-                Orders
+              <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="nav-link text-white">
+              <img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2022/09/meme_this_is_fine_dog.png" width="24" height="24"><use xlink:href=""></use></svg>
+                FREE BITCOIN!!!
               </a>
             </li>
             <li>
-              <a href="#" class="nav-link text-white">
-              <img src="https://media.wired.com/photos/5f87340d114b38fa1f8339f9/master/w_1600%2Cc_limit/Ideas_Surprised_Pikachu_HD.jpg" width="24" height="24"><use xlink:href="#grid"></use></svg>
-                Products
+            <li>
+              <a href="guest" class="nav-link text-white">
+              <img src="https://media.wired.com/photos/5f87340d114b38fa1f8339f9/master/w_1600%2Cc_limit/Ideas_Surprised_Pikachu_HD.jpg" width="24" height="24"><use xlink:href=""></use></svg>
+                GuestList
               </a>
             </li>
             <li>
-              <a href="#" class="nav-link text-white">
-              <img src="https://www.esports.net/wp-content/uploads/2020/05/kekw-emote-2.jpg" width="24" height="24"><use xlink:href="#people-circle"></use></svg>
-                Customers
+              <a href="guest/create" class="nav-link text-white">
+              <img src="https://www.esports.net/wp-content/uploads/2020/05/kekw-emote-2.jpg" width="24" height="24"><use xlink:href=""></use></svg>
+                GuestForm
               </a>
             </li>
           </ul>
@@ -147,4 +148,11 @@
  
  Add one or more pictures about yourself and your interests that you would like to share for your introduction. 
  
- Here are some of the games I like to play. 
+ Here are some of the games I like to play.
+ <img src="https://honeysanime.com/wp-content/uploads/2018/11/GrandChase_App_header.jpg" width="450" height="236">
+ <img src="https://prod.assets.earlygamecdn.com/images/Miss-Fortune-Broken-Covenant-Prestige.jpg?mtime=1677009744" width="500" height=auto>
+
+ <center>
+ <div>sadya ho and format diyan hindi ako tinatamad promise</div>
+ <div><img src="https://i.kym-cdn.com/entries/icons/original/000/041/943/1aa1blank.png" width= "400", height=auto</div>
+</center>
